@@ -1,2 +1,3 @@
 # vimconfig
-My simple vim configuration
+
+Simple vim configuration. To setup, clone repo and run setup.py script.
